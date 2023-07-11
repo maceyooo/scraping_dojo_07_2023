@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 10 15:48:17 2023
-
-@author: squas
-"""
 import os
 from dotenv import load_dotenv
 import json
